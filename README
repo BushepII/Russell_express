@@ -1,0 +1,27 @@
+```
+npm install express-generator -g
+```
+
+```
+express api_name --no-view
+```
+
+```
+npm install nodemon
+```
+
+```
+npm install env-cmd --save-dev
+```
+
+```
+npm install mongoose cors --save
+```
+
+npm install bcrypt --save
+
+npm install jsonwebtoken –save
+
+npm install multer
+
+npm install ejs
